@@ -4,7 +4,7 @@ Passionate web developer with the ability to write efficient code using MERN sta
 
 ### Contact me :
 - shaistasulthana78@gmail.com
-- Linkedin
+- [Linkedin](https://www.linkedin.com/in/shaista-sulthana-121432175/)
 - Resume
 - Portfolio
 
