@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaista Sulthana</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">Passionate web developer with the ability to write efficient code using
+MERN stack. Excited about building interactive and user-friendly
+websites. Looking for a role as web developer and hoping to
+contribute to the growth of an organization</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
