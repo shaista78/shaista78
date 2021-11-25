@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaistasulthana78@gmail.com**
 
-- 📄 Know about my education [Resume](https://drive.google.com/drive/folders/1Cg-eoNg79w_5GkQOCKN1rflAsC0GsdDs)
+- 📄 Know about my education [Resume](https://drive.google.com/file/d/1ActBnoIDu2R0v4insAJObMRFHCG_fJJ7/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
