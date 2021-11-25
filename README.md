@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [xyz](xyz)
 
-- 📝 I Started writing Blogs [https://medium.com/@shaistasulthana78](https://medium.com/@shaistasulthana78)
+- 📝 I Started writing Blogs [medium](https://medium.com/@shaistasulthana78)
 
 - 💬 Ask me about **HTML,CSS,Reactjs,MongooDB**
 
