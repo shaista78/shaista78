@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaista Sulthana</h1>
-<h3 align="left">Passionate web developer with the ability to write efficient code usingMERN stack. Excited about building interactive and user-friendlywebsites. Looking for a role as web developer and hoping tocontribute to the growth of an organization <br/> <br/>At Masai, I am Learning Full-Stack Web Development. I have had the chance to work on collaborative projects which have been an amazing learning experience. I have created websites using Express, HTML CSS and NodeJs, and other NPM packages. I am now learning ReactJs too.
-
+<h3 align="left">Enthusiastic web developer with the ability to write efficient code usingMERN stack. Excited about building interactive and user-friendlywebsites. Looking for a role as web developer and hoping to contribute to the growth of an organization <br/>
+  <br/>At Masai, I am Learning Full-Stack Web Development. I have had the chance to work on collaborative projects which have been an amazing learning experience. I have created websites using Express, HTML CSS and NodeJs, and other NPM packages. I am now learning ReactJs too.
+ <br/>
 As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical.
 
 I would love to collaborate with other developers on interesting projects.</h3>
