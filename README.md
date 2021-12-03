@@ -10,7 +10,7 @@ I would love to collaborate with other developers on interesting projects.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-theta-gold.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shaista-porfolio-shaista78.vercel.app/)
 
 - 📝 I Started writing Blogs [medium](https://medium.com/@shaistasulthana78)
 
