@@ -36,4 +36,4 @@ I would love to collaborate with other developers on interesting projects.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaista78&show_icons=true&locale=en" alt="shaista78" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaista78&" alt="shaista78" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaista78&private=true" alt="shaista78" /></p>
